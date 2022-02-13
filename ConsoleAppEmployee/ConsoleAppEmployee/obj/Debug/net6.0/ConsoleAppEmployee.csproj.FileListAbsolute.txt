@@ -1,0 +1,15 @@
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\bin\Debug\net6.0\ConsoleAppEmployee.exe
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\bin\Debug\net6.0\ConsoleAppEmployee.deps.json
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\bin\Debug\net6.0\ConsoleAppEmployee.runtimeconfig.json
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\bin\Debug\net6.0\ConsoleAppEmployee.dll
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\bin\Debug\net6.0\ref\ConsoleAppEmployee.dll
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\bin\Debug\net6.0\ConsoleAppEmployee.pdb
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ConsoleAppEmployee.csproj.AssemblyReference.cache
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ConsoleAppEmployee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ConsoleAppEmployee.AssemblyInfoInputs.cache
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ConsoleAppEmployee.AssemblyInfo.cs
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ConsoleAppEmployee.csproj.CoreCompileInputs.cache
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ConsoleAppEmployee.dll
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ref\ConsoleAppEmployee.dll
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ConsoleAppEmployee.pdb
+C:\Users\bka20\source\LAB 2\ConsoleAppEmployee\ConsoleAppEmployee\obj\Debug\net6.0\ConsoleAppEmployee.genruntimeconfig.cache

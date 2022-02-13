@@ -1,0 +1,15 @@
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ConsoleAppAddress.csproj.AssemblyReference.cache
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ConsoleAppAddress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ConsoleAppAddress.AssemblyInfoInputs.cache
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ConsoleAppAddress.AssemblyInfo.cs
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ConsoleAppAddress.csproj.CoreCompileInputs.cache
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\bin\Debug\net6.0\ConsoleAppAddress.exe
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\bin\Debug\net6.0\ConsoleAppAddress.deps.json
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\bin\Debug\net6.0\ConsoleAppAddress.runtimeconfig.json
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\bin\Debug\net6.0\ConsoleAppAddress.dll
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\bin\Debug\net6.0\ref\ConsoleAppAddress.dll
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\bin\Debug\net6.0\ConsoleAppAddress.pdb
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ConsoleAppAddress.dll
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ref\ConsoleAppAddress.dll
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ConsoleAppAddress.pdb
+C:\Users\bka20\source\LAB 2\ConsoleAppAddress\ConsoleAppAddress\obj\Debug\net6.0\ConsoleAppAddress.genruntimeconfig.cache
