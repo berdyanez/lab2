@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "203a07d7-4548-4562-825c-479f5404bda3": {
+      "ProjectGuid": "203a07d7-4548-4562-825c-479f5404bda3",
+      "DisplayName": "ConsoleAppConverter",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
