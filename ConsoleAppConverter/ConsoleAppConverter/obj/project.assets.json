@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bka20\\source\\convert\\ConsoleAppConverter\\ConsoleAppConverter\\ConsoleAppConverter.csproj",
+      "projectUniqueName": "C:\\Users\\bka20\\source\\LAB 2\\ConsoleAppConverter\\ConsoleAppConverter\\ConsoleAppConverter.csproj",
       "projectName": "ConsoleAppConverter",
-      "projectPath": "C:\\Users\\bka20\\source\\convert\\ConsoleAppConverter\\ConsoleAppConverter\\ConsoleAppConverter.csproj",
+      "projectPath": "C:\\Users\\bka20\\source\\LAB 2\\ConsoleAppConverter\\ConsoleAppConverter\\ConsoleAppConverter.csproj",
       "packagesPath": "C:\\Users\\bka20\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bka20\\source\\convert\\ConsoleAppConverter\\ConsoleAppConverter\\obj\\",
+      "outputPath": "C:\\Users\\bka20\\source\\LAB 2\\ConsoleAppConverter\\ConsoleAppConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bka20\\AppData\\Roaming\\NuGet\\NuGet.Config",

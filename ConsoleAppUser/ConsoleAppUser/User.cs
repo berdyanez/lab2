@@ -8,15 +8,57 @@ namespace ConsoleAppUser
 {
     class User
     {
-        static void Main(string[] args) 
-        {
-            string login = "login@mail.com";
-            string name = "Ivan";
-            string surname = "Ivanov";
-            int age = 22;
-            DateTime dateTime = DateTime.Now;
+        private string login;
+        private string name;
+        private string surname;
+        private int age;
 
-            Console.WriteLine($"Login: {login}; Name: {name}; Surname: {surname}; Age: {age}; Date: {dateTime}");
+        public string Login
+        {
+            get
+            {
+                return login;
+            }
+            set
+            {
+                login = value;
+            }
         }
+        public string Name
+        {
+            get
+            {
+                return name;
+            }
+            set
+            {
+                name = value;
+            }
+        }
+        public string Surname
+        {
+            get
+            {
+                return surname;
+            }
+            set
+            {
+                surname = value;
+            }
+        }
+        public int Age
+        {
+            get
+            {
+                return age;
+            }
+            set
+            {
+                age = value;
+            }
+        }
+        
     }
+    
+    
 }

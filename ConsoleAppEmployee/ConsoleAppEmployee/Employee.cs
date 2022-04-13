@@ -12,7 +12,7 @@ namespace ConsoleAppEmployee
         private string surname;
         private string status;
         private int salary;
-        private int tax;
+        private double tax;
 
 
         public string Name
@@ -61,7 +61,7 @@ namespace ConsoleAppEmployee
                 salary = value;
             }
         }
-        public int Tax 
+        public double Tax 
         {
             get 
             {
